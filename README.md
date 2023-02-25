@@ -4,3 +4,4 @@ This is a test repository I'm using to test out a batch change. Nothing serious,
 
 Some new shit
 Hello World
+Hello World
