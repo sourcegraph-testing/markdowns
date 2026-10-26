@@ -12,3 +12,6 @@ Strange new world
 
 Hello World
 Hello World
+
+## License
+Copyright 2026
