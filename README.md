@@ -12,3 +12,6 @@ Strange new world
 
 Hello World
 Hello World
+
+## License
+License notice updated for 2026.
