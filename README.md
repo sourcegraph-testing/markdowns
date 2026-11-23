@@ -12,3 +12,5 @@ Strange new world
 
 Hello World
 Hello World
+
+Edited by a Sourcegraph batch change.
