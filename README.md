@@ -12,3 +12,6 @@ Strange new world
 
 Hello World
 Hello World
+CPL-1358 publication hold local test, prepared on 2026-11-24.
+CPL-1358 update reviewed while publication is held.
+CPL-1358 browser approval verified.
