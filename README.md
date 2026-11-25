@@ -12,3 +12,7 @@ Strange new world
 
 Hello World
 Hello World
+
+CPL-1358 Valery review initial.
+
+CPL-1358 Valery review revision.
